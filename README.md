@@ -11,6 +11,10 @@ b)  Game Instructions:
    4)  There are 4 types of bricks: Green, Blue, Orange and Purple
    5)  The Green Brick remains stationary wherever it pops up. The Blue Brick also stays stationary but it has a timer, if you stay on the blue brick for 3 seconds, the bunny will fall nd the game will be over.
    6)  The Purple and Orange Bricks move left to right in a fixed parameter.
-   7)  Press Esc to pause the game. (Refer to the Pause Screen screenshot)
-   8)  The game ends if the bunny misses a brick, or when the timer ends on the blue brick.
-   9)  This instruction is the MOST IMPORTANT in the game. Enjoy! :)
+   7)  Music has also been implemented in the game via multitasking and the file music.imf must be in the code folder when running the asm file.
+   8)  Press Esc to pause the game. (Refer to the Pause Screen screenshot)
+   9)  The game ends if the bunny misses a brick, or when the timer ends on the blue brick.
+   10)  Enjoy! :)
+
+c)   Information about the top two sections:
+      Originally, this project was made for a client and was his College Project. The requirements were to divide the screen into 3 sections. The first and second sections would contain two different animations and should move left and right respectively. So, the creativity behind this is that the second section contains the a rabbit who is riding a turtle (a hilarious pun refering to the 'Rabbit and the Turtle Race') and is trying to win the race whilst being chased by several bees. And the first section contains multiple foxes who are the audience, watching the race. And obviously, the third section contains the game.
